@@ -16,6 +16,11 @@ open the appsettings.json and update "ConnectionStrings": {
   using the cmd 
   dotnet ef migrations add InitialCreate
   dotnet ef database update
-
-
   
+
+
+  ![Screenshot 2025-03-02 191724](https://github.com/user-attachments/assets/bd46da1a-a80f-488b-91ce-2a65fe3bac92)
+![Screenshot 2025-03-02 191820](https://github.com/user-attachments/assets/c8083801-7e0d-47c2-ae58-e96b161a3a34)
+
+![Screenshot 2025-03-02 191752](https://github.com/user-attachments/assets/911a424a-c535-404c-8d3b-2fce0e988a3c)
+![Screenshot 2025-03-02 191810](https://github.com/user-attachments/assets/1e7bdd14-520a-42c4-87e3-caa76c0f655b)
